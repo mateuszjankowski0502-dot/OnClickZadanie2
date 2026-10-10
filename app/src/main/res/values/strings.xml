@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Licznik Kliknięć</string>
+    <string name="plus">+1</string>
+    <string name="minus">−1</string>
+    <string name="reset">Reset</string>
+    <string name="error_negative">Nie może być ujemne</string>
+</resources>
